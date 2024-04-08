@@ -1,4 +1,4 @@
-# HCI-A2 By Matthew Goehner
+# HCI-Assignment By Matthew Goehner
 This is a course app to allow students to see the courses they are enrolled in, upcoming assignments, group chats a calendar, and notifications
 
 The top 5 new functionalities that I have not seen in any apps are
